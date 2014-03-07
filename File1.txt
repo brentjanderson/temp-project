@@ -4,7 +4,3 @@ I"m going to add another line. This is a development change.
 
 Some more changes
 
-And another here.
-
-
-This is a hotfix
