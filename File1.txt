@@ -1,6 +1,8 @@
-This was a new file!
+I'm another line
 
-I"m going to add another line
+Some more changes
+
+And another here.
 
 
-And another up here.
+This is a hotfix
